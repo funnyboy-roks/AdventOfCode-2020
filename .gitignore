@@ -1,0 +1,5 @@
+.vscode/
+
+# Actual values provided by AdventOfCode
+Day*/input
+Day*/test

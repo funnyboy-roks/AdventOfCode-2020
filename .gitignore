@@ -3,3 +3,6 @@
 # Actual values provided by AdventOfCode
 Day*/input
 Day*/test
+
+# Out files used for testing
+Day*/out*

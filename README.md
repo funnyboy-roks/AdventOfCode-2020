@@ -8,4 +8,6 @@ I am going to use JavaScript.
 
 [Day 2 - Password Philosophy](https://adventofcode.com/2020/day/2 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day2)
 
-[Day 2 - Toboggan Trajectory](https://adventofcode.com/2020/day/3 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day3)
+[Day 3 - Toboggan Trajectory](https://adventofcode.com/2020/day/3 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day3)
+
+[Day 4 - Passport Processing](https://adventofcode.com/2020/day/4 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day4)

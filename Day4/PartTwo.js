@@ -50,6 +50,7 @@ const optFields = ['cid'];
 const passports = data.split('\n\n');
 
 
+let outStr = "";
 let bad = 0;
 for (let xi in passports) {
 	let x = passports[xi];
@@ -72,7 +73,14 @@ for (let xi in passports) {
 			bad++;
 			break;
 		}
+		if(reqField == 'hcl'){
+			outStr += passportFields.hcl + '\n'; 
+		}
 	}
 }
+
+fs.writeFile('hcls', outStr, e => {
+	return;
+})
 
 console.log(passports.length - bad);

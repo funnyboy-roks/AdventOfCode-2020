@@ -13,3 +13,5 @@ I am going to use JavaScript.
 [Day 4 - Passport Processing](https://adventofcode.com/2020/day/4 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day4)
 
 [Day 5 - Binary Boarding](https://adventofcode.com/2020/day/5 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day5)
+
+[Day 6 - Custom Customs](https://adventofcode.com/2020/day/6 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day6)

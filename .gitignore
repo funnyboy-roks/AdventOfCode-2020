@@ -1,8 +1,8 @@
 .vscode/
 
 # Actual values provided by AdventOfCode
-Day*/input
-Day*/test
+Day*/input*
+Day*/test*
 
 # Out files used for testing
 Day*/out*

@@ -2,7 +2,7 @@
 
 These are my solutions to the Advent of Code 2020 problems.
 
-I am planning to use JavaScript.
+I am using JavaScript.
 
 [Day 1 - Report Repair](https://adventofcode.com/2020/day/1 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day1)
 
@@ -17,3 +17,5 @@ I am planning to use JavaScript.
 [Day 6 - Custom Customs](https://adventofcode.com/2020/day/6 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day6)
 
 [Day 7 - Handy Haversacks](https://adventofcode.com/2020/day/7 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day7)
+
+[Day 8 - Handheld Halting](https://adventofcode.com/2020/day/8 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day8)

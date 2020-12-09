@@ -19,3 +19,5 @@ I am using JavaScript.
 [Day 7 - Handy Haversacks](https://adventofcode.com/2020/day/7 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day7)
 
 [Day 8 - Handheld Halting](https://adventofcode.com/2020/day/8 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day8)
+
+[Day 9 - Encoding Error](https://adventofcode.com/2020/day/9 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day9)

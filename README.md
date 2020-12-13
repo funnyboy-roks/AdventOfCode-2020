@@ -21,3 +21,5 @@ I am using JavaScript.
 [Day 8 - Handheld Halting](https://adventofcode.com/2020/day/8 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day8)
 
 [Day 9 - Encoding Error](https://adventofcode.com/2020/day/9 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day9)
+
+[Day 10 - Encoding Error](https://adventofcode.com/2020/day/10 "View Problem") - [My Code (JavaScript)](https://www.github.com/funnyboy-roks/AdventOfCode-2020/tree/master/Day10)
